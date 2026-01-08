@@ -7,17 +7,17 @@ Targeting high-impact roles in Quantitative Finance & AI
 
 ### 🏆 Projects Roadmap
 
-| Day   | Project                                      | Key Skills                                      |
+| S.NO  | Project                                      | Key Skills                                      |
 |-------|----------------------------------------------|-------------------------------------------------|
-| 10    | Financial Data Pipeline                      | Python, Pandas, yfinance/Polygon API            |
-| 20    | Quant PDF/Report Tutor                       | Prompt Engineering, Basic RAG                   |
-| 30    | Financial Reports RAG Agent                  | Embeddings, Chroma DB, Advanced RAG             |
-| 45    | Quant Researcher Agent                       | LangChain, Tool Calling, ReAct, Deployment      |
-| 60    | Multi-Factor Nifty Strategy Backtester       | Walk-Forward Testing, LLM Sentiment Signals     |
-| 70    | Options Greeks Predictor + LLM Explainer     | PyTorch, Transformers, Interpretability         |
-| 80    | Nestam AI Quant Layer                        | FastAPI, Docker, Caching, Observability         |
-| 88    | LLM + Quantum Feature Suggestion Demo        | PennyLane, Hybrid QML Concepts                  |
-| 95    | **Capstone**: Quantum-Aware Gen AI Trading Research Platform | Full Integration + Deployment            |
+| 01    | Financial Data Pipeline                      | Python, Pandas, yfinance/Polygon API            |
+| 02    | Quant PDF/Report Tutor                       | Prompt Engineering, Basic RAG                   |
+| 03    | Financial Reports RAG Agent                  | Embeddings, Chroma DB, Advanced RAG             |
+| 04    | Quant Researcher Agent                       | LangChain, Tool Calling, ReAct, Deployment      |
+| 05    | Multi-Factor Nifty Strategy Backtester       | Walk-Forward Testing, LLM Sentiment Signals     |
+| 06    | Options Greeks Predictor + LLM Explainer     | PyTorch, Transformers, Interpretability         |
+| 07    | Nestam AI Quant Layer                        | FastAPI, Docker, Caching, Observability         |
+| 08    | LLM + Quantum Feature Suggestion Demo        | PennyLane, Hybrid QML Concepts                  |
+| 09    | **Capstone**: Quantum-Aware Gen AI Trading Research Platform | Full Integration + Deployment            |
 
 ### 🛠️ Tech Stack
 - Python • NumPy • Pandas
